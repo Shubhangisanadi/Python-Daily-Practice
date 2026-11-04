@@ -1,5 +1,3 @@
-'''
-https://github.com/Shubhangi13-dev
 name = "Shubhangi"
 city = "Belagavi"
 
@@ -90,7 +88,30 @@ print("hello world".replace("l", "x", 1))
 print("banana".rfind("a"))
 
 # 24
-print("apple, banana, cherry".split(","))'''
+print("apple, banana, cherry".split(","))
+
+
+
+s = "Python Programming"
+
+print(s.upper())
+print(s.lower())
+print(s.title())
+print(s.replace("Python", "java"))
+
+s = "Python"
+print(s[-2])
+print(s[-3])
+
+s = "java"
+print(s[1:3])
+
+name = input("enter a name :")
+print("hello", name)
+s = "Python"
+print(s[0])
+print(s[2])
+
 
 
 
