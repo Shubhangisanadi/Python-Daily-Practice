@@ -233,7 +233,7 @@ else:
             print(d3)
 
 # 20.
-d = {"Amit": 85, "Rahul": 92, "Sneha": 78, "Priya": 95}
+d = {"Shubhangi": 85, "Rahul": 92, "Shradha": 78, "Omkar": 95}
 items = list(d.items())
 
 for i in range(len(items)):
